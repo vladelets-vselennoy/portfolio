@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Raghuraj Pratap Yadav portfolio",
   "source": "src/index.html",
-  "homepage": "https://github.com/vladelets-vselennoy/portfolio.git",
+  "homepage": "https://github.com/vladelets-vselennoy/portfolio",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
