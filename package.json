@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Raghuraj Pratap Yadav portfolio",
   "source": "src/index.html",
-  "homepage": "https://github.com/vladelets-vselennoy/portfolio",
+  "homepage": "http://cladelets-vselennoy.github.io/portfolio",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://{vladelets-vselennoy}.github.io/{portfolio}'",
+    "build-gh": "parcel build --public-url 'https://vladelets-vselennoy.github.io/portfolio'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
